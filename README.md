@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Task 1 – Smart Light Control
 
 ## Overview
@@ -102,3 +103,29 @@ This project is open source and available under the MIT License.
 - Ensure that the PIR sensor is wired properly and powered correctly.
 
 >>>>>>> cca55b3 (Task3 commit)
+=======
+# Task 4 – IoT Air Quality Monitoring System
+
+## Objective
+Monitor air quality using the MQ135 gas sensor and display real-time values on a ThingSpeak cloud dashboard.
+
+## Components Used
+- NodeMCU (ESP8266)
+- MQ135 Air Quality Sensor
+- Wi-Fi (mobile hotspot: vivo Y56 5G)
+- ThingSpeak account
+
+## Working
+- The MQ135 sensor reads analog air quality voltage.
+- NodeMCU sends this data to ThingSpeak every 15 seconds.
+- Data is visualized in a live chart on the ThingSpeak dashboard.
+
+## ThingSpeak Info
+- Channel ID: 2954132
+- Write API Key: TCYTF64UHKLZ5QI2
+
+## Connection Diagram
+- MQ135 VCC → NodeMCU 3.3V
+- MQ135 GND → NodeMCU GND
+- MQ135 AOUT → NodeMCU A0
+>>>>>>> 2fe75aa (Task4 commit)
