@@ -55,6 +55,9 @@ Control multiple devices (Light and Fan represented by LEDs) using NodeMCU and M
 - README.md – documentation
 - Add your screenshots and circuit diagram here
 
+## Circuit
+![circuit_diagram](Circuit.png)
+
 ## Output
 LED1 (Light) and LED2 (Fan) will turn ON or OFF based on MQTT messages.
 >>>>>>> 8dc2dd6 (Initial commit)
