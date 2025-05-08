@@ -124,6 +124,14 @@ Monitor air quality using the MQ135 gas sensor and display real-time values on a
 - Channel ID: 2954132
 - Write API Key: TCYTF64UHKLZ5QI2
 
+## Circuit Diagrams
+
+### Schematic Overview
+![Schematic](Schematic-style_circuit_diagram.png)
+
+### Wiring Setup
+![Wiring](Circuit_Wiring_Diagram.png)
+
 ## Connection Diagram
 - MQ135 VCC → NodeMCU 3.3V
 - MQ135 GND → NodeMCU GND
