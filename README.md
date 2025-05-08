@@ -63,7 +63,7 @@ Control multiple devices (Light and Fan represented by LEDs) using NodeMCU and M
 LED1 (Light) and LED2 (Fan) will turn ON or OFF based on MQTT messages.
 >>>>>>> 8dc2dd6 (Initial commit)
 =======
-# IoT Security System - Motion Detection & Image Capture with Telegram Alerts
+# Task 3 - IoT Security System - Motion Detection & Image Capture with Telegram Alerts
 
 ## Project Overview
 This IoT-based security system uses the ESP32-CAM to detect motion using a PIR sensor, capture images when motion is detected, and send an alert via Telegram to a mobile device.
