@@ -127,7 +127,7 @@ Monitor air quality using the MQ135 gas sensor and display real-time values on a
 ## Circuit Diagrams
 
 ### Schematic Overview
-![Schematic](Schematic-style_circuit_diagram.png)
+![Schematic](Schematic-style_circuit_diagram .png)
 
 ### Wiring Setup
 ![Wiring](Circuit_Wiring_Diagram.png)
